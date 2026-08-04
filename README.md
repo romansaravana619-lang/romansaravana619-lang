@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/romansaravana619-lang/romansaravana619-lang/main/assets/banner.png" width="100%">
+</p>
 
+<br>
 # 👋 Hi, I'm Saravana Kumar M
 
 ### ⚡ Electrical & Electronics Engineering Student
