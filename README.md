@@ -60,12 +60,6 @@ A Hotel Management System developed using Python & Flask featuring:
 </p>
 
 ---
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=romansaravana619-lang&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
----
 
 ## 🔥 GitHub Streak
 
