@@ -51,30 +51,34 @@ A Hotel Management System developed using Python & Flask featuring:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
 
-- Python
-- HTML
-- CSS
-- SQL
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,git,github,vscode" />
 
-**Frameworks**
-
-- Flask
-
-**Database**
-
-- SQLite
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
+</p>
 
 ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=romansaravana619-lang&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romansaravana619-lang&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=romansaravana619-lang&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 📜 Professional Certifications
 
@@ -103,3 +107,10 @@ romansaravana619@gmail.com
 
 ---
 ⭐ Thanks for visiting my GitHub Profile!
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=romansaravana619-lang&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
