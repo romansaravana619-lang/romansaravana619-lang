@@ -28,14 +28,17 @@
 ## 🚀 Current Projects
 
 ### 🛒 Saru POS
-A modern Flask-based Point of Sale (POS) System featuring:
+A modern full-stack Restaurant Point of Sale (POS) System featuring:
 
-- Secure Authentication
-- Billing System
+- Secure Authentication & Role-Based Access
+- POS & Billing System
 - Inventory Management
-- Customer Management
+- Customer & Table Management
 - REST API
+- React + Vite Frontend
+- Python + Flask Backend
 - SQLite Database
+- ☁️ **[Live Deployment](https://sarupos-frontend.onrender.com)**
 
 ---
 
