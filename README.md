@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineering+Student;Backend+Developer;Python+%7C+Flask+Developer;AI+Enthusiast;Building+Real-World+Software+Products" />
 </p>
+
 # 👋 Hi, I'm Saravana Kumar M
 
 ### ⚡ Electrical & Electronics Engineering Student
@@ -75,6 +76,8 @@ A Hotel Management System developed using Python & Flask featuring:
 
 ## 📜 Professional Certifications
 
+- 🏆 **[IBM Machine Learning Professional Certificate](https://coursera.org/verify/professional-cert/3I5jW6N7W9)** — IBM & Coursera | September 2026
+  - Machine Learning • Supervised Learning • Unsupervised Learning • Deep Learning • Reinforcement Learning
 - Google Data Analytics Professional Certificate
 - Google Business Intelligence Professional Certificate
 - IBM People & Soft Skills Professional Certificate
