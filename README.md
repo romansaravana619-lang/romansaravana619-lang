@@ -76,8 +76,7 @@ A Hotel Management System developed using Python & Flask featuring:
 
 ## 📜 Professional Certifications
 
-- 🏆 **[IBM Machine Learning Professional Certificate](https://coursera.org/verify/professional-cert/3I5jW6N7W9)** — IBM & Coursera | September 2026
-  - Machine Learning • Supervised Learning • Unsupervised Learning • Deep Learning • Reinforcement Learning
+- IBM Machine Learning Professional Certificate
 - Google Data Analytics Professional Certificate
 - Google Business Intelligence Professional Certificate
 - IBM People & Soft Skills Professional Certificate
