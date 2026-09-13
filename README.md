@@ -76,6 +76,8 @@ A Hotel Management System developed using Python & Flask featuring:
 
 ## 📜 Professional Certifications
 
+- Microsoft AI & ML Engineering Professional Certificate
+- Google AI Professional Certificate
 - IBM Machine Learning Professional Certificate
 - Google Data Analytics Professional Certificate
 - Google Business Intelligence Professional Certificate
