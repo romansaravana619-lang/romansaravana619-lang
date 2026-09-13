@@ -82,7 +82,6 @@ A Hotel Management System developed using Python & Flask featuring:
 - Google Data Analytics Professional Certificate
 - Google Business Intelligence Professional Certificate
 - IBM People & Soft Skills Professional Certificate
-- AI Tools & ChatGPT Workshop (be10x)
 
 ---
 
