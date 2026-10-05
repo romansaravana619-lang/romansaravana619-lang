@@ -1,112 +1,35 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/romansaravana619-lang/romansaravana619-lang/main/assets/banner.png" width="100%">
-</p>
+# 👋 Hi, I'm Saravana Kumar
 
-<br>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineering+Student;Backend+Developer;Python+%7C+Flask+Developer;AI+Enthusiast;Building+Real-World+Software+Products" />
-</p>
+**Founder & Developer — Saru Systems**
 
-# 👋 Hi, I'm Saravana Kumar M
+Building practical, business-focused software solutions.
 
-### ⚡ Electrical & Electronics Engineering Student
-### 🚀 Tech Builder | Python | Flask | AI Enthusiast
+## 🛠️ What I Work With
 
-> Building Real-World Software Products
+Python • Flask • HTML • CSS • JavaScript • SQLite • Git • AI
 
----
+## 🎯 Current Focus
 
-## 👨‍💻 About Me
+- Custom Software Development
+- Website Development
+- Automation
+- AI Integration
+- Software Product Development
 
-- 🎓 Electrical & Electronics Engineering Student
-- 💻 Passionate about Backend Development & Web Applications
-- 🌱 Currently building real-world software products
-- 🤖 Exploring Artificial Intelligence & Automation
-- 📍 Coimbatore, Tamil Nadu, India
-
----
-
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
 ### 🛒 Saru POS
-A modern full-stack Restaurant Point of Sale (POS) System featuring:
-
-- Secure Authentication & Role-Based Access
-- POS & Billing System
-- Inventory Management
-- Customer & Table Management
-- REST API
-- React + Vite Frontend
-- Python + Flask Backend
-- SQLite Database
-- ☁️ **[Live Deployment](https://sarupos-frontend.onrender.com)**
-
----
+A full-stack Restaurant Point of Sale (POS) system built with Python, Flask, React, and SQLite.
 
 ### 🏨 StayEase
-A Hotel Management System developed using Python & Flask featuring:
-
-- Hotel Room Booking
-- Customer Management
-- Billing System
-- Admin Dashboard
-- Room Availability
-- SQLite Database
-- 🌐 **[Live Deployment](https://stayease-hotel-management-system.onrender.com)**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,git,github,vscode" />
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=romansaravana619-lang&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 📜 Professional Certifications
-
-- Microsoft AI & ML Engineering Professional Certificate
-- Google AI Professional Certificate
-- IBM Machine Learning Professional Certificate
-- Google Data Analytics Professional Certificate
-- Google Business Intelligence Professional Certificate
-- IBM People & Soft Skills Professional Certificate
-
----
-
-## 🎯 Career Goal
-
-To become a Backend Software Engineer focused on building scalable software products using Python, Flask, APIs, Databases, and Artificial Intelligence.
-
----
+A Hotel Management System built with Python, Flask, and SQLite.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn
-
-https://www.linkedin.com/in/saravanakumar1225/
-
-📧 Email
-
-romansaravana619@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/saravanakumar1225/)
+- 🌐 [Saru Systems](https://saru-systems.framer.website/)
+- 📧 romansaravana619@gmail.com
 
 ---
-⭐ Thanks for visiting my GitHub Profile!
----
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=romansaravana619-lang&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+⭐ Thanks for visiting my GitHub profile!
