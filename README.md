@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineering+Student;Backend+Developer;Python+%7C+Flask+Developer;AI+Enthusiast;Building+Real-World+Software+Products" />
 </p>
 
-# 👋 Hi, I'm Saravana Kumar
+# 👋 Hi, I'm Saravana Kumar M
 
 ### 🚀 Founder & Developer — Saru Systems
 ### ⚡ Electrical & Electronics Engineering Student
