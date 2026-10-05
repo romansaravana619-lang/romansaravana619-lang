@@ -2,14 +2,18 @@
   <img src="https://raw.githubusercontent.com/romansaravana619-lang/romansaravana619-lang/main/assets/banner.png" width="100%">
 </p>
 
+<h1 align="center">🚀 FOUNDER & DEVELOPER — SARU SYSTEMS</h1>
+<p align="center">
+  <strong>Building practical, business-focused software solutions.</strong>
+</p>
+
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineering+Student;Backend+Developer;Python+%7C+Flask+Developer;AI+Enthusiast;Building+Real-World+Software+Products" />
 </p>
 
-# 👋 Hi, I'm Saravana Kumar M
+# 👋 Hi, I'm Saravana Kumar
 
-### 🚀 Founder & Developer — Saru Systems
 ### ⚡ Electrical & Electronics Engineering Student
 ### 🚀 Tech Builder | Python | Flask | AI Enthusiast
 
